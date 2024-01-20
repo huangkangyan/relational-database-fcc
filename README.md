@@ -1,2 +1,0 @@
-# relational-database-fcc
-practice
